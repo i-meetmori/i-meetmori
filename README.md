@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Meet 
-- 👀 I’m interested in Vollyball, Finance and Data Science
 - 🌱 I’m currently learning App Development and DSA
 - 💞️ I’m looking to collaborate with any enthusiastic person
 - 📫 How to reach me @i_meetmori at Instagram and Twitter
